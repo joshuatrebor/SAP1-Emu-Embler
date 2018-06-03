@@ -1,0 +1,9 @@
+c:\users\jocas\documents\visual studio 2015\Projects\SAPWET\SAPWET\bin\Debug\SAPWET.exe.config
+c:\users\jocas\documents\visual studio 2015\Projects\SAPWET\SAPWET\bin\Debug\SAPWET.exe
+c:\users\jocas\documents\visual studio 2015\Projects\SAPWET\SAPWET\bin\Debug\SAPWET.pdb
+c:\users\jocas\documents\visual studio 2015\Projects\SAPWET\SAPWET\obj\Debug\SAPWET.csprojResolveAssemblyReference.cache
+c:\users\jocas\documents\visual studio 2015\Projects\SAPWET\SAPWET\obj\Debug\SAPWET.assembler.resources
+c:\users\jocas\documents\visual studio 2015\Projects\SAPWET\SAPWET\obj\Debug\SAPWET.Properties.Resources.resources
+c:\users\jocas\documents\visual studio 2015\Projects\SAPWET\SAPWET\obj\Debug\SAPWET.csproj.GenerateResource.Cache
+c:\users\jocas\documents\visual studio 2015\Projects\SAPWET\SAPWET\obj\Debug\SAPWET.exe
+c:\users\jocas\documents\visual studio 2015\Projects\SAPWET\SAPWET\obj\Debug\SAPWET.pdb
