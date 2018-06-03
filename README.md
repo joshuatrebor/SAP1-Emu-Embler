@@ -1,4 +1,4 @@
-# SAPWET
+# SAP1-Emu-Embler
 **Simple As Possible I (SAP I) Architecture Assembler and Emulator**
 
 This is a simple demonstration and visualization of the simplest computer architecture, the SAP1
